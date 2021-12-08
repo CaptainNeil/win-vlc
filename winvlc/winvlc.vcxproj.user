@@ -4,5 +4,6 @@
     <LocalDebuggerWorkingDirectory>$(OutDir)vlc</LocalDebuggerWorkingDirectory>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
     <LocalDebuggerCommand>$(OutDir)vlc/$(TargetName)$(TargetExt)</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>E:/video/spider-1080.mp4</LocalDebuggerCommandArguments>
   </PropertyGroup>
 </Project>
